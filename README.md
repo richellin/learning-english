@@ -18,3 +18,33 @@
     ☞Why not go fishing?
     낚시하러 가는 건 어때?
 ~~~~
+
++ **That is one thing~.**: 그건 ~중의 하나야.
+~~~~
+    ☞That is one thing I enjoy.
+    그건 내가 즐기는 것 중의 하나야.
+    ☞That is one thing I can't stand
+    그건 내가 참을수 없는 것 중의 하나야.
+    ☞That is one thing I can no longer wait for.
+    그건 내가 더 이상 기다릴 수 없는 것 중의 하나야.
+~~~~
+
++ **I'm scared of -ing.**: 나는 -하는게 무서워.
+~~~~
+    ☞I'm scared of looking after a baby.
+    난 아기를 돌보는 게  무서워.
+    ☞I'm scared of whatching horror movies.
+    난 공포 영화를 보는 게 무서워.
+    ☞I'm scared of going outside in weather like this.
+    난 이런 날씨에 밖에 나가기가 두려워.
+~~~~
+
++ **I'm not the one who ~**: 나는 ~하는 사람이 아니야.
+~~~~
+    ☞I'm not the one who can fix it.
+    난 이걸 고칠 수 있는 사람이 아니야.
+    ☞I'm not the one who you are after
+    전 당신이 찾는 사람이 아닙니다.
+    ☞I'm not the one who is responsible for this.
+    저는 이 일에 책임이 있는 사람이 아닙니다.
+~~~~
