@@ -54,3 +54,21 @@
     ☞It's not like what you think.
     네가 생각하는 그런게 아니야.
 ~~~~
+
++ **~is/are overpriced**: ~는 너무비싸
+~~~~
+    ☞They are overpriced
+    그것들은 제값보다 비싸다.
+~~~~
+
++ **~Come to think of it,~**: 생각해 보니까,~
+~~~~
+    ☞Come to think of it, it is surpicious
+    그러고 보니 수상하네.
+~~~~
+
++ **~Now that I know,~**: 이제 알았으니까,~
+~~~~
+    ☞Now that I know,I'll make sure that you'll be safe
+    이제 알았으니까,네가 안전하도록 지켜 줄게.
+~~~~
