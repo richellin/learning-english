@@ -72,3 +72,21 @@
     ☞Now that I know,I'll make sure that you'll be safe
     이제 알았으니까,네가 안전하도록 지켜 줄게.
 ~~~~
+
++ **It’s hard not to ~.**: ~하지 않기가 힘들어
+~~~~
+    ☞It’s hard not to have noticed.
+    눈치 못 채기가 더 어려워.
+~~~~
+
++ **is a huge fan of ~/are huge fans of ~**: ~의 열렬한 팬이다.
+~~~~
+    ☞They are huge fans of that band.
+    그들은 그 밴드의 광팬이야.
+~~~~
+
++ **is/are so much more than ~**: ~보다 훨씬 더 그 이상이다.
+~~~~
+    ☞It’s so much more than that.
+    그건 훨씬 더 가치가 있어.
+~~~~
