@@ -90,3 +90,21 @@
     ☞It’s so much more than that.
     그건 훨씬 더 가치가 있어.
 ~~~~
+
++ **valid**: 유효한, 쓸 수 있는
+~~~~
+    ☞Is  your promise still valid?
+    당신 약속 아직 유효해요?
+~~~~
+
++ **Why are you -ing?**: 왜 ~해?
+~~~~
+    ☞Why are you smiling?
+    왜 웃어요?
+~~~~
+
++ **not ~ anymore**: 더 이상 ~하지 않다.
+~~~~
+    ☞I'm not on a diet anymore.
+    난 이제 다이어트 안 해요.
+~~~~
