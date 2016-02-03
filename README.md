@@ -115,7 +115,7 @@
     여기서 가장 멋진 풍경이 보여요.
 ~~~~
 
-+ **speaking of that **: 말이 나온 김에
++ **speaking of that**: 말이 나온 김에
 ~~~~
     ☞Speaking of that, I have to decide what to do.
     말이 나온 김에, 나는 어떻게 할 지 정해야 해요.
