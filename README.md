@@ -108,3 +108,21 @@
     ☞I'm not on a diet anymore.
     난 이제 다이어트 안 해요.
 ~~~~
+
++ **take in ~**: ~를보다, 감상하다
+~~~~
+    I can take in the best view from here.
+    여기서 가장 멋진 풍경이 보여요.
+~~~~
+
++ **speaking of that **: 말이 나온 김에
+~~~~
+    ☞Speaking of that, I have to decide what to do.
+    말이 나온 김에, 나는 어떻게 할 지 정해야 해요.
+~~~~
+
++ **Here's ~.**: 여기 ~가 있어요.
+~~~~
+    ☞Here's his number on my phone.
+    여기 내 전화기에 그 사람의 전화번호가 있어요.
+~~~~
