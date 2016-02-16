@@ -126,3 +126,6 @@
     ☞Here's his number on my phone.
     여기 내 전화기에 그 사람의 전화번호가 있어요.
 ~~~~
+
+##Book
+###[English for Developers : IT 트렌드로 배우는 개발자 영어 독해](http://english4developers.blogspot.jp/p/find-us-on-facebook.html)
